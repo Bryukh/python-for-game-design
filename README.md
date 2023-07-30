@@ -1,2 +1,3 @@
-# python-for-game-design
-Articles and work files with examples of using Python for Game Designers in System, Balance and any else Game Design work.
+# Python for Game Design
+
+This repository is a storage for various articles and examples of using Python in Game Designer work.
