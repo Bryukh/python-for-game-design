@@ -1,2 +1,4 @@
 work_data/*
 !work_data/.gitkeep
+
+.DS_Store
